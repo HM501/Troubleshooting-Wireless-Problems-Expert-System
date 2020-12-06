@@ -1,0 +1,79 @@
+﻿<Window x:Class="ESTS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ESTS"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Wireless Troubleshooting ES" Height="550" Width="1000" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="iconwifi.png">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.DeepPurple.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="White"/>
+            <GradientStop Color="#FF579DE4" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <Grid>
+
+            <Label x:Name="lblQuestion" Content="Do you have A wifi adapter in your device?" HorizontalAlignment="Left" Margin="50,45,0,0" VerticalAlignment="Top" FontSize="25" FontFamily="Segoe UI Symbol
+                  " FontWeight="Bold" Background="{x:Null}">
+                <Label.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF3C4853" Offset="0.098"/>
+                        <GradientStop Color="#FE000102" Offset="0.96"/>
+                    </LinearGradientBrush>
+                </Label.Foreground>
+            </Label>
+            <TextBlock x:Name="lblGoal" HorizontalAlignment="Left" Margin="50,127,0,0" VerticalAlignment="Top" FontSize="25" TextWrapping="Wrap" Width="442" Text="OK TEST hello bla bla"  FontFamily="Segoe UI Symbol" FontStyle="Italic" Foreground="#FF07203A" Height="304">
+            </TextBlock>
+            <RadioButton x:Name="radioYes" Content="Yes" HorizontalAlignment="Left" Margin="50,125,0,0" VerticalAlignment="Top" Checked="radioChecked" FontSize="25" VerticalContentAlignment="Center" Background="#FF3599FF" BorderBrush="#FF3599FF" FontFamily="Segoe UI Symbol" FontWeight="Bold"/>
+            <RadioButton x:Name="radioNo" Content="No" HorizontalAlignment="Left" Margin="202,125,0,0" VerticalAlignment="Top" Checked="radioChecked" FontSize="25" VerticalContentAlignment="Center" Background="#FF3599FF" BorderBrush="#FF3599FF" FontFamily="Segoe UI Symbol" FontWeight="Bold"/>
+            <Image RenderTransformOrigin="0.639,0.512" Margin="2,-28,-2,28">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="-0.518"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="3.24"/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <Image Margin="497,-13,-15,-58" Source="wifi.png" Stretch="Fill"/>
+        </Grid>
+        <Grid Grid.Row="1" Margin="0">
+            <Button x:Name="btnStartOver" VerticalAlignment="Center" HorizontalAlignment="Left" Height="47" Margin="20,0" Width="185" Click="btnStartOver_Click" Background="#FF212427" BorderBrush="#FF222528">
+                <StackPanel Orientation="Vertical">
+                    <TextBlock FontSize="18" FontFamily="Segoe UI Symbol"><Run Text="Start Over"/></TextBlock>
+                </StackPanel>
+            </Button>
+            <Button x:Name="btnGrid" VerticalAlignment="Center" HorizontalAlignment="Left" Height="47" Margin="220,0" Width="185"  Background="White" BorderBrush="White" Foreground="#DD000000" Click="btnGrid_Click">
+                <StackPanel Orientation="Vertical">
+                    <TextBlock FontSize="18" FontFamily="Segoe UI Symbol"><Run Text="View past history"/></TextBlock>
+                </StackPanel>
+            </Button>
+            <Button x:Name="btnExit"  HorizontalAlignment="Right" Height="47" Margin="20,0" VerticalAlignment="Center" Width="185" Click="btnExit_Click" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}">
+                <StackPanel Orientation="Vertical">
+                    <TextBlock FontSize="18" FontFamily="Segoe UI Symbol">Exit System</TextBlock>
+                </StackPanel>
+            </Button>
+
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,86 @@
+D:\Expert system\ESTS\ESTS\bin\Debug\ESTS.exe.config
+D:\Expert system\ESTS\ESTS\bin\Debug\ESTS.exe
+D:\Expert system\ESTS\ESTS\bin\Debug\ESTS.pdb
+D:\Expert system\ESTS\ESTS\obj\Debug\ESTS.csprojResolveAssemblyReference.cache
+D:\Expert system\ESTS\ESTS\obj\Debug\MainWindow.g.cs
+D:\Expert system\ESTS\ESTS\obj\Debug\App.g.cs
+D:\Expert system\ESTS\ESTS\obj\Debug\ESTS_MarkupCompile.cache
+D:\Expert system\ESTS\ESTS\obj\Debug\ESTS_MarkupCompile.lref
+D:\Expert system\ESTS\ESTS\obj\Debug\MainWindow.baml
+D:\Expert system\ESTS\ESTS\obj\Debug\ESTS.g.resources
+D:\Expert system\ESTS\ESTS\obj\Debug\ESTS.Properties.Resources.resources
+D:\Expert system\ESTS\ESTS\obj\Debug\ESTS.csproj.GenerateResource.Cache
+D:\Expert system\ESTS\ESTS\obj\Debug\ESTS.exe
+D:\Expert system\ESTS\ESTS\obj\Debug\ESTS.pdb
+D:\Expert system\ESTS\ESTS\bin\Debug\ESDataBase.mdf
+D:\Expert system\ESTS\ESTS\bin\Debug\ESDataBase_log.ldf
+D:\Expert system\ESTS\ESTS\obj\Debug\ESTS_Content.g.cs
+D:\Project Expert system\ESTS\ESTS\bin\Debug\ESDataBase.mdf
+D:\Project Expert system\ESTS\ESTS\bin\Debug\ESDataBase_log.ldf
+D:\Project Expert system\ESTS\ESTS\bin\Debug\ESTS.exe.config
+D:\Project Expert system\ESTS\ESTS\bin\Debug\ESTS.exe
+D:\Project Expert system\ESTS\ESTS\bin\Debug\ESTS.pdb
+D:\Project Expert system\ESTS\ESTS\bin\Debug\MaterialDesignColors.dll
+D:\Project Expert system\ESTS\ESTS\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Project Expert system\ESTS\ESTS\bin\Debug\MaterialDesignColors.pdb
+D:\Project Expert system\ESTS\ESTS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Project Expert system\ESTS\ESTS\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Project Expert system\ESTS\ESTS\obj\Debug\MainWindow.g.cs
+D:\Project Expert system\ESTS\ESTS\obj\Debug\App.g.cs
+D:\Project Expert system\ESTS\ESTS\obj\Debug\ESTS_Content.g.cs
+D:\Project Expert system\ESTS\ESTS\obj\Debug\ESTS_MarkupCompile.cache
+D:\Project Expert system\ESTS\ESTS\obj\Debug\ESTS_MarkupCompile.lref
+D:\Project Expert system\ESTS\ESTS\obj\Debug\MainWindow.baml
+D:\Project Expert system\ESTS\ESTS\obj\Debug\ESTS.g.resources
+D:\Project Expert system\ESTS\ESTS\obj\Debug\ESTS.Properties.Resources.resources
+D:\Project Expert system\ESTS\ESTS\obj\Debug\ESTS.csproj.GenerateResource.Cache
+D:\Project Expert system\ESTS\ESTS\obj\Debug\ESTS.exe
+D:\Project Expert system\ESTS\ESTS\obj\Debug\ESTS.pdb
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\bin\Debug\HDatabaseExpert.mdf
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\bin\Debug\HDatabaseExpert_log.ldf
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\bin\Debug\ESTS.exe.config
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\bin\Debug\ESTS.exe
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\bin\Debug\ESTS.pdb
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\bin\Debug\MaterialDesignColors.dll
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\bin\Debug\MaterialDesignColors.pdb
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\frmHistory.baml
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\frmHistory.g.cs
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\MainWindow.g.cs
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\App.g.cs
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS_Content.g.cs
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS_MarkupCompile.cache
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS_MarkupCompile.lref
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\MainWindow.baml
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.g.resources
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.Properties.Resources.resources
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.csproj.GenerateResource.Cache
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.exe
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.pdb
+D:\Project Expert system\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.csprojResolveAssemblyReference.cache
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\bin\Debug\ESTS.exe.config
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.exe
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.pdb
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\bin\Debug\HDatabaseExpert.mdf
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\bin\Debug\HDatabaseExpert_log.ldf
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\bin\Debug\ESTS.exe
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\bin\Debug\ESTS.pdb
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\bin\Debug\MaterialDesignColors.dll
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\bin\Debug\MaterialDesignColors.pdb
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.csprojResolveAssemblyReference.cache
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\frmHistory.baml
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\frmHistory.g.cs
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\MainWindow.g.cs
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\App.g.cs
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS_Content.g.cs
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS_MarkupCompile.cache
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS_MarkupCompile.lref
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\MainWindow.baml
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.g.resources
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.Properties.Resources.resources
+D:\Backups\2016030098\Troubleshooting wireless problems expert system\ESTS\obj\Debug\ESTS.csproj.GenerateResource.Cache
